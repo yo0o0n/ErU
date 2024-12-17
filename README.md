@@ -37,7 +37,7 @@
 
 
 ### 판단
-![연결여부](./src/assets/bus_gif.gif)
+![연결여부](./src/assets/bus_gif.mp4)
 - Global Path
 - Local Path
 - Localization
