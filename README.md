@@ -6,7 +6,7 @@
 
 ---
 
-## 🐳[포팅 메뉴얼](https://lab.ssafy.com/s10-mobility-autodriving-sub2/S10P22A311/-/blob/master/exec/ErU_%ED%8F%AC%ED%8C%85%EB%A7%A4%EB%89%B4%EC%96%BC.pdf?ref_type=heads) 
+## 🐳 [포팅 메뉴얼](https://lab.ssafy.com/s10-mobility-autodriving-sub2/S10P22A311/-/blob/master/exec/ErU_%ED%8F%AC%ED%8C%85%EB%A7%A4%EB%89%B4%EC%96%BC.pdf?ref_type=heads) 
 
 ## 💡 프로젝트 콘셉트
 
@@ -37,7 +37,7 @@
 
 
 ### 판단
-![연결여부](./src/assets/bus_gif.mp4)
+![연결여부](./src/assets/bus_gif.gif)
 - Global Path
 - Local Path
 - Localization
