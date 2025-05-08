@@ -3,3 +3,4 @@ src/assets/bus_gif.gif filter=lfs diff=lfs merge=lfs -text
 src/assets/presentation.pptx filter=lfs diff=lfs merge=lfs -text
 src/assets/bus_gif.mp4 filter=lfs diff=lfs merge=lfs -text
 src/assets/presentation/pptx filter=lfs diff=lfs merge=lfs -text
+*.pptx filter=lfs diff=lfs merge=lfs -text
